@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713209673935",
+    "project_id": "oneul-fd8ec",
+    "storage_bucket": "oneul-fd8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713209673935:android:1681d565f9582e7b499fba",
+        "android_client_info": {
+          "package_name": "com.example.whichmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713209673935-eilc8eup1civpn7lgr2emgs9u1ro6ddk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy27fwzVrCMIkE4oz80EmRO0gRnHOIy1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713209673935-eilc8eup1civpn7lgr2emgs9u1ro6ddk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

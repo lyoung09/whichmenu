@@ -47,5 +47,14 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>FirebaseAutomaticScreenReportingEnabled</key>
+	<false/>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>UIApplicationSceneManifest</key>
+    <dict>
+        <key>UISceneConfigurations</key>
+        <dict/>
+    </dict>
 </dict>
 </plist>
